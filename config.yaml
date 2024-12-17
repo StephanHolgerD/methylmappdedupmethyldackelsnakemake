@@ -1,0 +1,4 @@
+
+sample_sheet: samples.tsv
+genome: /../../genome.fa
+bed: data/all_Gene_and_CpG_ID_annotations_covered_targets_Twist_Methylome_V1_TE-96341190_hg38.bed

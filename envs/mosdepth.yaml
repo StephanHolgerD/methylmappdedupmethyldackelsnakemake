@@ -1,0 +1,6 @@
+
+name: mosdepth
+channels:
+ - bioconda
+dependencies:
+ - mosdepth
